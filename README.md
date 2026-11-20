@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="batuhan(1) — Batuhan Doymaz, Senior Full-Stack Developer, Istanbul" width="100%">
+  <img src="./assets/header.svg" alt="batuhan(1) — Batuhan Doymaz, Full-Stack Developer, Istanbul" width="100%">
 </p>
 
 <p align="center">
@@ -10,19 +10,9 @@
 
 ### About
 
-I've been building software since 2013 — from ASP/PHP websites and .NET desktop apps to Next.js platforms, React Native mobile apps and AI pipelines that run entirely on local hardware.
+I've been writing software since 2013. I started with websites and SEO; in recent years I've built .NET desktop apps, web apps with Next.js and iOS/Android apps with React Native. I've applied SOLID, OOP and Clean Code principles in my projects and keep building that way.
 
-These days I work hybrid: I write the spec, design the architecture and review every change; AI agents help me ship it faster — tested, documented and built on SOLID, OOP and Clean Code principles.
-
-```ts
-const batuhan = {
-  role:      "Senior Full-Stack Developer",
-  approach:  "AI + Human = Hybrid Power",
-  shipping:  ["web", "mobile", "desktop", "local AI"],
-  platforms: ["Windows", "Linux", "macOS"],
-  learning:  ["Rust", "3D / real-time rendering"],
-};
-```
+Today I work with several AI models and agents and orchestrate how they work together. AI has widened the range of projects I can take on and cut delivery times considerably; it also lets me build in languages I haven't fully mastered, such as Rust.
 
 ### Stack
 
@@ -32,20 +22,21 @@ const batuhan = {
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma,supabase,docker,nginx,linux,cloudflare,vercel,blender&theme=dark" alt="Data and infrastructure">
 </p>
 
-**Mobile:** React Native · Expo · SwiftUI  **Local AI:** Ollama · SDXL / FLUX · LTX-Video · Wan · Whisper · ffmpeg  **AI tooling:** Claude Code · multi-agent workflows · spec-driven development
+**Mobile:** React Native · Expo · SwiftUI<br>
+**AI:** Claude Code · multi-agent workflows · local models: Ollama, SDXL / FLUX, LTX-Video, Wan, Whisper
 
-### Selected work
+### Projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **ProjectLocal** | Local AI video studio: news → script → storyboard → visuals → voice-over → subtitles → dubbing in 23 languages. Runs free on an 8 GB laptop GPU. [Windows installer →](https://github.com/batuhanDoymaz/ProjectLocal-releases) | Python · FastAPI · React · Ollama |
-| **HomeMesh** | Self-hosted, local-first control panel for your own Windows / Linux / macOS machines: monitoring, terminal, verified file transfer, clipboard sync, input sharing. Open source (MIT). | Rust · Web |
-| **KantineCore** | Canteen POS & inventory: one monorepo for web, iOS and Android with live order and stock updates. | Next.js · Fastify · PostgreSQL · Expo |
-| **VESQR** | QR menu & restaurant platform: guest menu, waiter and kitchen panels, isometric floor editor, reports. | Next.js · TypeScript |
-| **Local SEO Platform** | Generates, validates and deploys dozens of local-business sites from one repo, with lead capture and uptime monitoring. | Python · Cloudflare Workers |
-| **Local AI Studio** | Virtual 3D studio pipeline: JSON shot plan → Blender preview → final render. | Python · Blender |
+| **ProjectLocal** | AI video production app that runs locally: script, storyboard, visuals, voice-over, subtitles and dubbing in 23 languages. Built for an 8 GB laptop GPU. [Windows installer](https://github.com/batuhanDoymaz/ProjectLocal-releases) | Python · FastAPI · React · Ollama |
+| **HomeMesh** | Open-source, self-hosted device management for your own Windows, Linux and macOS machines: monitoring, terminal, file transfer, clipboard sync, keyboard and mouse sharing. | Rust · Web |
+| **KantineCore** | Canteen POS and stock management: web, iOS and Android from one codebase, with live order and stock updates. | Next.js · Fastify · PostgreSQL · Expo |
+| **VESQR** | QR menu and restaurant platform: guest menu, waiter and kitchen panels, floor plan editor, reports. | Next.js · TypeScript |
+| **Local SEO Platform** | Generates, checks and deploys many local business sites from one repo, with lead forms and uptime monitoring. | Python · Cloudflare Workers |
+| **Local AI Studio** | Virtual 3D studio pipeline: JSON shot plan, Blender preview, final render. | Python · Blender |
 
-<sub>Most of my client and product work lives in private repositories. Happy to walk through architecture and code in a call.</sub>
+<sub>Most of my client and product work is in private repositories. I'm happy to walk through the code in a call.</sub>
 
 ### Activity
 
@@ -57,10 +48,8 @@ const batuhan = {
 <summary><b>Türkçe</b></summary>
 <br>
 
-2013'ten beri yazılım geliştiriyorum: ASP/PHP web sitelerinden .NET masaüstü uygulamalara, Next.js platformlarından React Native mobil uygulamalara ve tamamen yerel donanımda çalışan yapay zekâ boru hatlarına kadar.
+2013'ten beri yazılım geliştiriyorum. Web siteleri ve SEO ile başladım; son yıllarda .NET masaüstü uygulamaları, Next.js ile web uygulamaları ve React Native ile iOS/Android uygulamaları geliştirdim. Projelerimde SOLID, OOP ve Clean Code prensiplerini uyguladım ve bu şekilde geliştirmeye devam ediyorum.
 
-Bugün hibrit çalışıyorum: spesifikasyonu yazıyor, mimariyi tasarlıyor ve her değişikliği gözden geçiriyorum. AI ajanları ise bunu daha hızlı, testli, belgelenmiş ve SOLID, OOP, Clean Code ilkelerine uygun şekilde hayata geçirmeme yardım ediyor.
-
-**AI + Human = Hybrid Power**
+Bugün birden fazla AI modeli ve ajanla çalışıyor, bu modellerin orkestrasyonunu yönetiyorum. Yapay zekâ, geliştirebildiğim projelerin kapsamını genişletti ve teslim sürelerini ciddi ölçüde kısalttı; tam olarak hâkim olmadığım dillerde de (örneğin Rust) proje geliştirebiliyorum.
 
 </details>
